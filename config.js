@@ -23,13 +23,13 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = ['2348133729715'];
-global.ownMain = '2348133729715';
+global.owner = ['2349012464012'];
+global.ownMain = '2349012464012';
 global.NamaOwner = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
-global.namabot = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Change if needed
-global.author = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Change if needed
+global.namabot = '❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌ 𝚩𝐔𝐆'; // Change if needed
+global.author = '💀💀'; // Change if needed
 global.packname = 'PATRON 🚹'; // Change if needed
 global.url = 'https://t.me/textpatron_bot'; // Do not change
 
@@ -82,7 +82,7 @@ global.mess = {
   admin: 'This feature is specifically for group admins🖕.',
   owner: 'You are not the owner🫵😡.',
   premium: 'You are not a premium user.',
-  seller: 'This feature can only be used by resellers and the owner.',
+  seller: 'This feature can only be used by ❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌',
   usingsetpp: 'Setpp can only be used by the owner, do you think I\'m stupid? 😡🫵',
   wait: '*processing♻️ chillax....♻️*',
   success: '*successfully terminated* 😈💯.....',
